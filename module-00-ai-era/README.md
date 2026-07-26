@@ -1,1182 +1,583 @@
-\# Module 0: AI Needs Sensors
+# Module 0: AI Needs Sensors
+
+## Building the Physical Intelligence Layer for Artificial Intelligence
 
 
-
-\## Building the Physical Intelligence Layer for Artificial Intelligence
-
-
-
+![AI Needs Sensors - The Physical Intelligence Layer of AI](./assets/images/module0-ai-needs-sensors-hero.png)
 
 
 <p align="center">
 
-
-
-<img src="assets/images/module0-ai-needs-sensors-hero.png"
-
-alt="AI Needs Sensors - The Physical Intelligence Layer of AI"
-
-width="100%">
-
-
+<b>
+AI CMOS MEMS Academy | Module 0 | AI Era
+</b>
 
 </p>
 
 
-
-
-
 <p align="center">
-
-
 
 <img src="https://img.shields.io/badge/Module-00%20AI%20Era-blue">
 
-
-
 <img src="https://img.shields.io/badge/Topic-AI%20Sensors-orange">
-
-
 
 <img src="https://img.shields.io/badge/Technology-CMOS%20MEMS-green">
 
-
-
 <img src="https://img.shields.io/badge/Learning-Level%20Beginner-purple">
-
-
 
 </p>
 
 
+---
+
+# 🚀 Start Here: AI Needs Sensors
 
 
-
-\# Welcome to the AI Sensor Revolution 🚀
-
+## Watch the 60-Second Introduction Video
 
 
-
-
-\## AI Has Intelligence.
-
-
-
-\## But AI Needs Sensors to Understand the Real World.
-
-
-
-
-
-Everyone is talking about:
-
-
-
-\- ChatGPT
-
-\- Generative AI
-
-\- Large Language Models
-
-\- AI Agents
-
-
-
-
+Artificial Intelligence is transforming the world.
 
 But one fundamental question remains:
 
 
-
-
-
-\# How does AI see, hear, feel, and interact with the physical world?
-
-
-
+# How does AI understand the physical world?
 
 
 The answer:
 
 
+# Sensors.
 
 
-
-\# Sensors.
-
+🎬 **AI CMOS MEMS Academy - Module 0 Introduction (60-sec Video)**
 
 
+👉 Coming soon:
+
+[Watch the AI Needs Sensors 60-second Introduction Video](YOUR_YOUTUBE_VIDEO_LINK)
 
 
-\---
+This short video explains:
 
 
-
-\# The Missing Physical Intelligence Layer of AI
-
-
-
+- Why AI needs physical-world data
+- Why sensors are the foundation of intelligent systems
+- Why CMOS MEMS sensors are critical for future AIoT
 
 
-Today's AI revolution is mainly driven by software intelligence.
+---
+
+# AI Has Intelligence.
+
+# But AI Needs Sensors to Understand Reality.
 
 
+Everyone is talking about:
 
+
+- ChatGPT
+- Generative AI
+- Large Language Models
+- AI Agents
 
 
 However:
 
 
-
-
-
 AI cannot:
 
 
-
-
-
-\- See the environment
-
-\- Measure motion
-
-\- Detect pressure
-
-\- Understand vibration
-
-\- Sense temperature
-
-\- Interact with physical systems
-
-
-
+- See the environment
+- Measure motion
+- Detect pressure
+- Understand vibration
+- Sense temperature
+- Interact with physical systems
 
 
 without sensors.
 
 
-
-
-
 The next AI revolution requires:
 
 
+# Physical Intelligence
 
 
+---
 
-\# Physical Intelligence
-
-
-
+# From Artificial Intelligence to Intelligent Systems
 
 
-\---
-
-
-
-\# From Artificial Intelligence to Intelligent Systems
-
-
-
-
-
-A human intelligence system requires:
-
-
-
+Human intelligence requires:
 
 
 ```
-
 Brain
 
-
-
-\+
-
-
++
 
 Eyes
 
-
-
-\+
-
-
++
 
 Ears
 
-
-
-\+
-
-
++
 
 Touch
 
-
-
-\+
-
-
++
 
 Movement
-
 ```
-
-
-
 
 
 Intelligent machines require:
 
 
-
-
-
 ```
-
 AI Models
 
-
-
-\+
-
-
++
 
 Sensors
 
-
-
-\+
-
-
++
 
 Actuators
 
-
-
-\+
-
-
++
 
 Computing
 
-
-
 =
 
-
-
 Intelligent Systems
-
 ```
 
 
+---
 
-
-
-\---
-
-
-
-\# The AI Data Pipeline
-
-
-
+# The AI Data Pipeline
 
 
 Every intelligent system follows:
 
 
-
-
-
 ```
-
 Physical World
 
-
-
-&#x20;       ↓
-
-
+        ↓
 
 Sensors
 
+        ↓
 
+Sensor Data
 
-&#x20;       ↓
-
-
-
-Data
-
-
-
-&#x20;       ↓
-
-
+        ↓
 
 AI Models
 
-
-
-&#x20;       ↓
-
-
+        ↓
 
 Decision
 
-
-
-&#x20;       ↓
-
-
+        ↓
 
 Action
-
 ```
-
-
-
 
 
 Better sensors create better AI systems.
 
 
+---
 
-
-
-\---
-
-
-
-\# Why CMOS MEMS?
-
-
-
+# Why CMOS MEMS?
 
 
 MEMS means:
 
 
+# Micro-Electro-Mechanical Systems
 
 
-
-\# Micro-Electro-Mechanical Systems
-
-
-
-
-
-MEMS integrates:
-
-
-
+CMOS MEMS integrates:
 
 
 ```
-
-Mechanical Structures
-
-
-
-\+
-
-
-
-Sensors
-
-
-
-\+
-
-
-
-Actuators
-
-
-
-\+
-
-
-
-Electronics
-
-
-
-\+
-
-
-
-Communication
-
-
-
-\+
-
-
-
-Power
-
-
-
-=
-
-
-
-Microsystem Intelligence
-
-```
-
-
-
-
-
-CMOS MEMS combines:
-
-
-
-
-
-```
-
 CMOS Semiconductor Technology
 
-
-
-&#x20;       +
-
-
+        +
 
 MEMS Mechanical Structures
 
+        +
 
+Sensor Electronics
 
-&#x20;       +
-
-
+        +
 
 AI Algorithms
 
-
-
-&#x20;       =
-
-
+        =
 
 Intelligent Sensor Systems
-
 ```
 
 
+---
 
-
-
-\---
-
-
-
-\# Why CMOS MEMS Sensors Matter
-
-
-
+# Why CMOS MEMS Sensors Matter
 
 
 CMOS MEMS sensors provide:
 
 
-
-
-
-\- Small size
-
-\- Low cost
-
-\- Low power consumption
-
-\- High sensitivity
-
-\- Mass manufacturability
-
-
-
+- Small size
+- Low cost
+- Low power consumption
+- High sensitivity
+- Mass manufacturability
 
 
 They are becoming the sensing foundation for:
 
 
-
-
-
-\## 🤖 Robotics
-
-
-
+## 🤖 Robotics
 
 
 Robots need sensors to understand:
 
 
+- Position
+- Motion
+- Environment
+- Interaction
 
 
+---
 
-\- Position
-
-\- Motion
-
-\- Environment
-
-\- Interaction
-
-
-
-
-
-\---
-
-
-
-\## 🚗 Smart Vehicles
-
-
-
+## 🚗 Smart Vehicles
 
 
 Autonomous systems require:
 
 
+- Accelerometers
+- Gyroscopes
+- Pressure sensors
+- Advanced sensing systems
 
 
+---
 
-\- Accelerometers
-
-\- Gyroscopes
-
-\- Pressure sensors
-
-\- Advanced sensing systems
+## 🏢 Smart Buildings
 
 
+Sensors enable:
 
 
-
-\---
-
-
-
-\## 🏢 Smart Buildings
+- Environment monitoring
+- Energy optimization
+- Intelligent control
 
 
+---
 
-
-
-Intelligent buildings use sensors for:
-
-
-
-
-
-\- Environment monitoring
-
-\- Energy optimization
-
-\- Human activity detection
-
-
-
-
-
-\---
-
-
-
-\## 🌆 Smart Cities
-
-
-
+## 🌆 Smart Cities
 
 
 Future cities require billions of connected sensors generating intelligent data.
 
 
+---
+
+# 🤖 Learn with AI CMOS MEMS Agents
 
 
-
-\---
-
+This academy combines:
 
 
-\# Your AI Learning Team
+```
+Professor Knowledge
+
++
+
+Artificial Intelligence Assistants
+
++
+
+Hands-on Engineering
+```
 
 
+---
+
+# 1. OpenAI GPTs Version
 
 
-
-AI CMOS MEMS Academy combines:
-
+## Prof. Yi-Kuen Lee AI CMOS MEMS Agent
 
 
-
-
-\## Human Expertise
-
-
-
-\+
-
-
-
-\## Artificial Intelligence Assistants
-
-
-
-
-
-\---
-
-
-
-\# 🤖 AI CMOS MEMS Agent
-
-
-
-
-
-Your MEMS engineering assistant.
-
-
-
+Your AI MEMS learning assistant.
 
 
 Ask:
 
 
-
-
-
 ```
-
 Explain how a CMOS MEMS accelerometer works.
-
 ```
 
 
+The AI Agent can help you:
 
 
-
-The AI Agent helps you:
-
-
-
-
-
-\- Learn MEMS concepts
-
-\- Analyze sensor systems
-
-\- Explore applications
-
-\- Design engineering solutions
+- Learn MEMS concepts
+- Understand sensor physics
+- Analyze CMOS MEMS systems
+- Explore AI sensor applications
 
 
+👉 Access OpenAI GPTs version:
 
 
-
-\---
-
+https://chatgpt.com/g/g-pNxqWiIdN-cmos-mems-sensors
 
 
-\# 👨‍🏫 Prof. Yi-Kuen Lee AI CMOS MEMS GPT
+---
+
+# 2. Google Gemini Version
 
 
+Your alternative AI learning assistant for:
 
 
-
-Your AI professor assistant.
-
-
-
+- MEMS education
+- Semiconductor concepts
+- AI sensor discussions
 
 
-Learning approach:
+👉 Access Google Gemini version:
 
 
+https://gemini.google.com/gem/1TP9BuVg5UsXpJUsLmTRzbfdoBkW6bERK?usp=sharing
 
+
+---
+
+# AI Engineering Learning Experience
+
+
+Ask your AI assistant:
+
+
+## Beginner Question
 
 
 ```
-
-Concept
-
-
-
-↓
-
-
-
-Physics
-
-
-
-↓
-
-
-
-Engineering Design
-
-
-
-↓
-
-
-
-Application
-
-
-
-↓
-
-
-
-Future Research
-
+What is MEMS?
 ```
 
 
-
-
-
-Ask:
-
-
-
+## Engineering Question
 
 
 ```
-
-Teach me MEMS sensing principles
-
-like a university professor.
-
+How does a CMOS MEMS accelerometer convert acceleration into electrical signals?
 ```
 
 
-
-
-
-\---
-
-
-
-\# ⚡ AI Analog IC Guru
-
-
-
-
-
-Your analog and mixed-signal design assistant.
-
-
-
-
-
-Learn:
-
-
-
-
-
-\- Sensor interface circuits
-
-\- Analog front-end design
-
-\- ADC requirements
-
-\- CMOS sensor electronics
-
-
-
-
-
-Ask:
-
-
-
+## Research Question
 
 
 ```
-
-How do I design an analog interface
-
-for a MEMS sensor?
-
+Compare different CMOS MEMS sensing technologies.
 ```
 
 
+---
 
-
-
-\---
-
-
-
-\# Hands-on Engineering Challenge
-
-
-
+# Hands-on Engineering Challenge
 
 
 Look at your smartphone.
 
 
+Ask:
 
 
-
-Ask yourself:
-
-
-
-
-
-\## How does your phone know orientation?
-
-
-
+## How does your phone know orientation?
 
 
 Answer:
-
-
-
 
 
 MEMS accelerometer and gyroscope.
 
 
+---
 
-
-
-\---
-
-
-
-\## How does your phone detect sound?
-
-
-
+## How does your phone detect sound?
 
 
 Answer:
-
-
-
 
 
 MEMS microphone.
 
 
+---
 
-
-
-\---
-
-
-
-\## How does your phone become intelligent?
-
-
-
+## How does your phone become intelligent?
 
 
 Answer:
 
 
-
-
-
 ```
-
 Sensors
 
-
-
 ↓
-
-
 
 Data
 
+↓
 
+AI Algorithms
 
 ↓
 
-
-
-Algorithms
-
-
-
-↓
-
-
-
-AI Applications
-
+Intelligent Decisions
 ```
 
 
+---
 
+# Mini Project 0
 
-
-\---
-
-
-
-\# Mini Project 0
-
-
-
-\## Design Your First Intelligent Sensor System
-
-
-
+## Design Your First Intelligent Sensor System
 
 
 Choose one application:
 
 
-
-
-
-\## Project A: Smart Robot
-
-
-
-
-
-Design:
-
-
-
+## Project A: Smart Robot
 
 
 ```
-
 Robot
 
-
-
 ↓
-
-
 
 MEMS Sensor
 
-
-
 ↓
-
-
 
 Data Processing
 
-
-
 ↓
-
-
 
 AI Decision
 
 ```
 
 
+---
 
-
-
-\---
-
-
-
-\## Project B: Smart Building
-
-
-
-
-
-Design:
-
-
-
+## Project B: Smart Building
 
 
 ```
-
 Environment
 
-
-
 ↓
-
-
 
 Sensor
 
-
-
 ↓
-
-
 
 AI Analysis
 
-
-
 ↓
 
-
-
 Intelligent Control
-
 ```
 
 
+---
+
+# Learning Philosophy
 
 
-
-\---
-
+AI CMOS MEMS Academy follows:
 
 
-\# Learning Philosophy
-
-
-
-
-
-This academy follows:
-
-
-
-
-
-\# Learn → Build → Measure → Analyze → Create
-
-
-
+# Learn → Build → Measure → Analyze → Create
 
 
 Engineering learning:
 
 
-
-
-
 ```
-
 Theory
 
-
-
 ↓
-
-
 
 Hardware
 
-
-
 ↓
-
-
 
 Measurement
 
-
-
 ↓
-
-
 
 Data
 
-
-
 ↓
 
-
-
 AI Intelligence
-
 ```
 
 
+---
+
+# What You Will Learn Next
 
 
-
-\---
-
-
-
-\# What You Will Learn Next
-
-
-
-
-
-\## Module 1: MEMS Fundamentals
-
-
-
+## Module 1: MEMS Fundamentals
 
 
 You will learn:
 
 
+- MEMS principles
+- Scaling effects
+- Sensors and actuators
+- Microsystems architecture
 
 
+---
 
-\- MEMS principles
-
-\- Scaling effects
-
-\- Sensors and actuators
-
-\- Micro-system architecture
-
-
-
-
-
-\---
-
-
-
-\# Start Your AI Sensor Journey 🚀
-
-
-
+# Start Your AI Sensor Journey 🚀
 
 
 The future of AI is not only algorithms.
 
 
-
-
-
 The future of AI is:
 
 
+# Intelligent Systems That Can Sense the World.
 
 
+Welcome to:
 
-\# Intelligent Systems That Can Sense the World.
-
-
-
+# AI CMOS MEMS Academy
 
 
-Welcome to AI CMOS MEMS Academy.
-
+Building Intelligent Sensors for the AIoT Era. 
